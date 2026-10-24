@@ -1,11 +1,9 @@
 # Hafis IT Support
 
-Salinan kod website Hafis IT Support tersedia dalam `software-store-source.zip`.
+Versi statik GitHub Pages: buka index.html. Katalog 9 apps, RM14/app, combo 4 apps RM25, cart, QR asli, ringkasan dan WhatsApp.
 
-Extract ZIP untuk mendapatkan projek lengkap: katalog, shopping cart, checkout QR, WhatsApp, database, dashboard admin, invoice PDF, migration dan panduan setup README.md.
+Tiada backend, database, dashboard admin atau pengesahan bayaran automatik. Pelanggan mesti menghantar mesej dan resit melalui WhatsApp sendiri. Rujukan dijana secara lokal, bukan rekod server. Harga dan pakej diubah dalam index.html.
 
-Kod ini menggunakan React/TypeScript, Vinext dan Cloudflare Workers/D1. Ia bukan website statik GitHub Pages. Upload ini menyimpan kod sahaja dan tidak mengaktifkan hosting GitHub Pages.
+Aktifkan Pages melalui Settings > Pages > Deploy from a branch > main > /(root).
 
-Fail secrets, database pelanggan dan node_modules tidak disertakan. `.env.example` ialah contoh konfigurasi tanpa credentials.
-
-Untuk pengurusan fail dan deployment seterusnya, extract projek lalu push fail sumber ke repository ini menggunakan akaun pemilik.
+software-store-source.zip ialah arkib versi penuh terdahulu yang memerlukan Cloudflare Workers/D1. Ia bukan kod yang dijalankan oleh GitHub Pages.
