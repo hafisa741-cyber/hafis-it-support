@@ -7,3 +7,5 @@ Tiada backend, database, dashboard admin atau pengesahan bayaran automatik. Pela
 Aktifkan Pages melalui Settings > Pages > Deploy from a branch > main > /(root).
 
 software-store-source.zip ialah arkib versi penuh terdahulu yang memerlukan Cloudflare Workers/D1. Ia bukan kod yang dijalankan oleh GitHub Pages.
+
+Checkout menawarkan satu pakej Installation + Setup dan pilihan tarikh/masa remote 24 jam dalam MYT (UTC+8). Masa lalu ditolak. Tiada sistem lock slot; Hafis mengesahkan sesi melalui WhatsApp.
